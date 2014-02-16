@@ -1,0 +1,10 @@
+frmMain = 99, 81, 691, 619, , 6, 22, 927, 776, C
+basMD5 = 110, 145, 661, 601, C
+basMain = 22, 29, 573, 485, C
+modLietKeValue = 66, 87, 675, 587, C
+modRegistry = 44, 58, 595, 514, C
+basCheckVR = 132, 174, 683, 630, C
+frmKill = 45, 98, 644, 554, C, 66, 87, 659, 586, C
+basProcess = 0, 0, 0, 0, C
+basRegClean = 0, 0, 0, 0, C
+frmReport = 44, 58, 608, 514, , 88, 116, 662, 572, C

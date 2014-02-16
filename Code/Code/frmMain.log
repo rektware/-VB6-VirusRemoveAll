@@ -1,0 +1,226 @@
+Line 39: Class UnicodeControl.UniButton of control cmdOption was not a loaded control class.
+Line 69: Class UnicodeControl.UniStatusBar of control Bar1 was not a loaded control class.
+Line 102: Class UnicodeControl.ImageListXP of control ImageList2 was not a loaded control class.
+Line 124: Class UnicodeControl.ImageListXP of control ImageList1 was not a loaded control class.
+Line 136: Class UnicodeControl.UniFrame of control fm was not a loaded control class.
+Line 161: Class UnicodeControl.UniFrame of control fmREG was not a loaded control class.
+Line 185: Class UnicodeControl.ProgressBar of control pREG was not a loaded control class.
+Line 195: Class UnicodeControl.UniLabel of control lblx1 was not a loaded control class.
+Line 222: Class UnicodeControl.UniButton of control cmdStop was not a loaded control class.
+Line 246: Class UnicodeControl.UniFrame of control fmPRO was not a loaded control class.
+Line 270: Class UnicodeControl.UniLabel of control lblx2 was not a loaded control class.
+Line 302: Class UnicodeControl.ProgressBar of control pPro was not a loaded control class.
+Line 313: Class UnicodeControl.UniListView of control LVFILE was not a loaded control class.
+Line 337: Class UnicodeControl.UniLabel of control lblFile was not a loaded control class.
+Line 363: Class UnicodeControl.UniListView of control LVPRO was not a loaded control class.
+Line 387: Class UnicodeControl.UniLabel of control lblPro was not a loaded control class.
+Line 413: Class UnicodeControl.UniListView of control LVREG was not a loaded control class.
+Line 437: Class UnicodeControl.UniLabel of control lblReg was not a loaded control class.
+Line 464: Class UnicodeControl.UniCommonDialog of control Dialog1 was not a loaded control class.
+Line 485: Class UnicodeControl.UniButton of control cmdStart was not a loaded control class.
+Line 509: Class UnicodeControl.UniButton of control cmdDel was not a loaded control class.
+Line 533: Class UnicodeControl.UniButton of control cmdAdd was not a loaded control class.
+Line 557: Class UnicodeControl.UniLabel of control UniLabel1 was not a loaded control class.
+Line 583: Class UnicodeControl.UniLabel of control lbl1 was not a loaded control class.
+Line 611: Class UnicodeControl.UniTitleBar of control UniTitleBar1 was not a loaded control class.
+Line 629: Class UnicodeControl.UniListView of control lstFile was not a loaded control class.
+Line 45: The property name _ExtentX in cmdOption is invalid.
+Line 46: The property name _ExtentY in cmdOption is invalid.
+Line 47: The property name Caption in cmdOption is invalid.
+Line 49: The property name ForecolorSelected in cmdOption is invalid.
+Line 50: The property name PictureNormal in cmdOption is invalid.
+Line 51: The property name PictureHot in cmdOption is invalid.
+Line 52: The property name PictureAlignment in cmdOption is invalid.
+Line 53: The property name PictureSize in cmdOption is invalid.
+Line 57: The property name UniToolTipText in cmdOption is invalid.
+Line 67: The property name EnableDoubleClick in cmdOption is invalid.
+Line 39: Property MouseIcon in cmdOption could not be set.
+Line 75: The property name _ExtentX in Bar1 is invalid.
+Line 76: The property name _ExtentY in Bar1 is invalid.
+Line 86: The property name Count in Bar1 is invalid.
+Line 87: The property name PanelAlign1 in Bar1 is invalid.
+Line 88: The property name PanelText1 in Bar1 is invalid.
+Line 89: The property name PanelIconIndex1 in Bar1 is invalid.
+Line 90: The property name PanelType1 in Bar1 is invalid.
+Line 91: The property name PanelAlign2 in Bar1 is invalid.
+Line 92: The property name PanelText2 in Bar1 is invalid.
+Line 93: The property name PanelIconIndex2 in Bar1 is invalid.
+Line 94: The property name PanelType2 in Bar1 is invalid.
+Line 105: The property name _ExtentX in ImageList2 is invalid.
+Line 106: The property name _ExtentY in ImageList2 is invalid.
+Line 107: The property name Count in ImageList2 is invalid.
+Line 108: The property name FileSize1 in ImageList2 is invalid.
+Line 109: The property name ImageType1 in ImageList2 is invalid.
+Line 110: The property name ListImage1 in ImageList2 is invalid.
+Line 111: The property name Key1 in ImageList2 is invalid.
+Line 112: The property name Tag1 in ImageList2 is invalid.
+Line 113: The property name FileSize2 in ImageList2 is invalid.
+Line 114: The property name ImageType2 in ImageList2 is invalid.
+Line 115: The property name ListImage2 in ImageList2 is invalid.
+Line 116: The property name Key2 in ImageList2 is invalid.
+Line 117: The property name Tag2 in ImageList2 is invalid.
+Line 118: The property name FileSize3 in ImageList2 is invalid.
+Line 119: The property name ImageType3 in ImageList2 is invalid.
+Line 120: The property name ListImage3 in ImageList2 is invalid.
+Line 121: The property name Key3 in ImageList2 is invalid.
+Line 122: The property name Tag3 in ImageList2 is invalid.
+Line 127: The property name _ExtentX in ImageList1 is invalid.
+Line 128: The property name _ExtentY in ImageList1 is invalid.
+Line 129: The property name Count in ImageList1 is invalid.
+Line 130: The property name FileSize1 in ImageList1 is invalid.
+Line 131: The property name ImageType1 in ImageList1 is invalid.
+Line 132: The property name ListImage1 in ImageList1 is invalid.
+Line 133: The property name Key1 in ImageList1 is invalid.
+Line 134: The property name Tag1 in ImageList1 is invalid.
+Line 142: The property name _ExtentX in fm is invalid.
+Line 143: The property name _ExtentY in fm is invalid.
+Line 144: The property name TitleColor in fm is invalid.
+Line 156: The property name OldHeight in fm is invalid.
+Line 157: The property name Caption in fm is invalid.
+Line 159: The property name ForeHighlight in fm is invalid.
+Line 160: The property name ShowButton in fm is invalid.
+Line 136: Property Picture in fm could not be set.
+Line 167: The property name _ExtentX in fmREG is invalid.
+Line 168: The property name _ExtentY in fmREG is invalid.
+Line 169: The property name TitleColor in fmREG is invalid.
+Line 180: The property name OldHeight in fmREG is invalid.
+Line 181: The property name Caption in fmREG is invalid.
+Line 183: The property name ForeHighlight in fmREG is invalid.
+Line 184: The property name ShowButton in fmREG is invalid.
+Line 191: The property name _ExtentX in pREG is invalid.
+Line 192: The property name _ExtentY in pREG is invalid.
+Line 193: The property name Scrolling in pREG is invalid.
+Line 201: The property name _ExtentX in lblx1 is invalid.
+Line 202: The property name _ExtentY in lblx1 is invalid.
+Line 213: The property name BackStyle in lblx1 is invalid.
+Line 215: The property name Caption in lblx1 is invalid.
+Line 216: The property name Link in lblx1 is invalid.
+Line 217: The property name ForeColorWordEffect in lblx1 is invalid.
+Line 218: The property name SpeedOrtherColor in lblx1 is invalid.
+Line 219: The property name UniToolTipText in lblx1 is invalid.
+Line 229: The property name _ExtentX in cmdStop is invalid.
+Line 230: The property name _ExtentY in cmdStop is invalid.
+Line 231: The property name Caption in cmdStop is invalid.
+Line 232: The property name ForecolorSelected in cmdStop is invalid.
+Line 233: The property name PictureNormal in cmdStop is invalid.
+Line 234: The property name UniToolTipText in cmdStop is invalid.
+Line 244: The property name EnableDoubleClick in cmdStop is invalid.
+Line 252: The property name _ExtentX in fmPRO is invalid.
+Line 253: The property name _ExtentY in fmPRO is invalid.
+Line 254: The property name TitleColor in fmPRO is invalid.
+Line 265: The property name OldHeight in fmPRO is invalid.
+Line 266: The property name Caption in fmPRO is invalid.
+Line 268: The property name ForeHighlight in fmPRO is invalid.
+Line 269: The property name ShowButton in fmPRO is invalid.
+Line 276: The property name _ExtentX in lblx2 is invalid.
+Line 277: The property name _ExtentY in lblx2 is invalid.
+Line 288: The property name BackStyle in lblx2 is invalid.
+Line 290: The property name Caption in lblx2 is invalid.
+Line 291: The property name Link in lblx2 is invalid.
+Line 292: The property name ForeColorWordEffect in lblx2 is invalid.
+Line 293: The property name SpeedOrtherColor in lblx2 is invalid.
+Line 294: The property name UniToolTipText in lblx2 is invalid.
+Line 308: The property name _ExtentX in pPro is invalid.
+Line 309: The property name _ExtentY in pPro is invalid.
+Line 310: The property name Scrolling in pPro is invalid.
+Line 319: The property name _ExtentX in LVFILE is invalid.
+Line 320: The property name _ExtentY in LVFILE is invalid.
+Line 332: The property name HideSelection in LVFILE is invalid.
+Line 333: The property name CheckBoxes in LVFILE is invalid.
+Line 334: The property name FullRowSelect in LVFILE is invalid.
+Line 335: The property name GridLines in LVFILE is invalid.
+Line 343: The property name _ExtentX in lblFile is invalid.
+Line 344: The property name _ExtentY in lblFile is invalid.
+Line 355: The property name BackStyle in lblFile is invalid.
+Line 357: The property name Caption in lblFile is invalid.
+Line 358: The property name Link in lblFile is invalid.
+Line 359: The property name ForeColorWordEffect in lblFile is invalid.
+Line 360: The property name SpeedOrtherColor in lblFile is invalid.
+Line 361: The property name UniToolTipText in lblFile is invalid.
+Line 369: The property name _ExtentX in LVPRO is invalid.
+Line 370: The property name _ExtentY in LVPRO is invalid.
+Line 382: The property name HideSelection in LVPRO is invalid.
+Line 383: The property name CheckBoxes in LVPRO is invalid.
+Line 384: The property name FullRowSelect in LVPRO is invalid.
+Line 385: The property name GridLines in LVPRO is invalid.
+Line 393: The property name _ExtentX in lblPro is invalid.
+Line 394: The property name _ExtentY in lblPro is invalid.
+Line 405: The property name BackStyle in lblPro is invalid.
+Line 407: The property name Caption in lblPro is invalid.
+Line 408: The property name Link in lblPro is invalid.
+Line 409: The property name ForeColorWordEffect in lblPro is invalid.
+Line 410: The property name SpeedOrtherColor in lblPro is invalid.
+Line 411: The property name UniToolTipText in lblPro is invalid.
+Line 419: The property name _ExtentX in LVREG is invalid.
+Line 420: The property name _ExtentY in LVREG is invalid.
+Line 432: The property name HideSelection in LVREG is invalid.
+Line 433: The property name CheckBoxes in LVREG is invalid.
+Line 434: The property name FullRowSelect in LVREG is invalid.
+Line 435: The property name GridLines in LVREG is invalid.
+Line 443: The property name _ExtentX in lblReg is invalid.
+Line 444: The property name _ExtentY in lblReg is invalid.
+Line 455: The property name BackStyle in lblReg is invalid.
+Line 457: The property name Caption in lblReg is invalid.
+Line 458: The property name Link in lblReg is invalid.
+Line 459: The property name ForeColorWordEffect in lblReg is invalid.
+Line 460: The property name SpeedOrtherColor in lblReg is invalid.
+Line 461: The property name UniToolTipText in lblReg is invalid.
+Line 467: The property name _ExtentX in Dialog1 is invalid.
+Line 468: The property name _ExtentY in Dialog1 is invalid.
+Line 469: The property name CancelError in Dialog1 is invalid.
+Line 470: The property name DialogTitle in Dialog1 is invalid.
+Line 471: The property name Filename in Dialog1 is invalid.
+Line 472: The property name Filter in Dialog1 is invalid.
+Line 473: The property name FilterIndex in Dialog1 is invalid.
+Line 474: The property name hDC in Dialog1 is invalid.
+Line 491: The property name _ExtentX in cmdStart is invalid.
+Line 492: The property name _ExtentY in cmdStart is invalid.
+Line 493: The property name Caption in cmdStart is invalid.
+Line 494: The property name ForecolorSelected in cmdStart is invalid.
+Line 495: The property name PictureNormal in cmdStart is invalid.
+Line 496: The property name PictureAlignment in cmdStart is invalid.
+Line 497: The property name UniToolTipText in cmdStart is invalid.
+Line 507: The property name EnableDoubleClick in cmdStart is invalid.
+Line 515: The property name _ExtentX in cmdDel is invalid.
+Line 516: The property name _ExtentY in cmdDel is invalid.
+Line 517: The property name Caption in cmdDel is invalid.
+Line 518: The property name ForecolorSelected in cmdDel is invalid.
+Line 519: The property name PictureNormal in cmdDel is invalid.
+Line 520: The property name PictureAlignment in cmdDel is invalid.
+Line 521: The property name UniToolTipText in cmdDel is invalid.
+Line 531: The property name EnableDoubleClick in cmdDel is invalid.
+Line 539: The property name _ExtentX in cmdAdd is invalid.
+Line 540: The property name _ExtentY in cmdAdd is invalid.
+Line 541: The property name Caption in cmdAdd is invalid.
+Line 542: The property name ForecolorSelected in cmdAdd is invalid.
+Line 543: The property name PictureNormal in cmdAdd is invalid.
+Line 544: The property name PictureAlignment in cmdAdd is invalid.
+Line 545: The property name UniToolTipText in cmdAdd is invalid.
+Line 555: The property name EnableDoubleClick in cmdAdd is invalid.
+Line 563: The property name _ExtentX in UniLabel1 is invalid.
+Line 564: The property name _ExtentY in UniLabel1 is invalid.
+Line 575: The property name BackStyle in UniLabel1 is invalid.
+Line 577: The property name Caption in UniLabel1 is invalid.
+Line 578: The property name Link in UniLabel1 is invalid.
+Line 579: The property name ForeColorWordEffect in UniLabel1 is invalid.
+Line 580: The property name SpeedOrtherColor in UniLabel1 is invalid.
+Line 581: The property name UniToolTipText in UniLabel1 is invalid.
+Line 589: The property name _ExtentX in lbl1 is invalid.
+Line 590: The property name _ExtentY in lbl1 is invalid.
+Line 602: The property name Alignment in lbl1 is invalid.
+Line 603: The property name Caption in lbl1 is invalid.
+Line 605: The property name ThreeDColor1 in lbl1 is invalid.
+Line 606: The property name ForeColorWordEffect in lbl1 is invalid.
+Line 607: The property name SpeedOrtherColor in lbl1 is invalid.
+Line 608: The property name Gradient in lbl1 is invalid.
+Line 609: The property name UniToolTipText in lbl1 is invalid.
+Line 614: The property name _ExtentX in UniTitleBar1 is invalid.
+Line 615: The property name _ExtentY in UniTitleBar1 is invalid.
+Line 616: The property name Caption in UniTitleBar1 is invalid.
+Line 617: The property name Icon in UniTitleBar1 is invalid.
+Line 627: The property name Logo in UniTitleBar1 is invalid.
+Line 635: The property name _ExtentX in lstFile is invalid.
+Line 636: The property name _ExtentY in lstFile is invalid.
+Line 647: The property name HideSelection in lstFile is invalid.
+Line 648: The property name FullRowSelect in lstFile is invalid.
+Line 649: The property name GridLines in lstFile is invalid.
